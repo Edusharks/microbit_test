@@ -4,7 +4,7 @@
 
 **Transform your Microbit into a Piano ! **
 
-![Description of Image](/docs/static/Piano.gif)
+![Description of Image](docs/static/Piano.gif)
 
 Turn your Microbit into a fun piano !
  
