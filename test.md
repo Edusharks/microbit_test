@@ -119,9 +119,6 @@ input.onGesture(Gesture.Shake, function() {
 })
 ```
 
-```blockconfig.global
-randint(1, 3)
-```
 
 ```template
 basic.forever(function () {
