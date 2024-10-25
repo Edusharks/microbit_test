@@ -4,7 +4,6 @@
 
 **Transform your Microbit into a Piano ! **
 
-![Description of Image](https://edusharks.github.io/microbit_test/static/Piano.gif)
 
 Turn your Microbit into a fun piano !
  
@@ -13,8 +12,6 @@ By using buttons and a buzzer, you can play different musical notes. Pressing a 
 
 ## {Components @unplugged}
 
-![Cartoon of the Rock Paper Scissors game](https://edusharks.github.io/microbit_test/static/CN.png)
-
 
 ## {Connection @unplugged}
 
@@ -22,7 +19,6 @@ By using buttons and a buzzer, you can play different musical notes. Pressing a 
 
 **Step 1**  
 Grab your **Microbit**, **Breadboard** and move to next Step ..
-![Image 1](https://edusharks.github.io/microbit_test/static/S1.png)
 
 ```blocks
 basic.forever(function () {
